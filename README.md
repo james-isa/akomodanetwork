@@ -13,11 +13,12 @@ Kami membangun infrastruktur yang tidak hanya berdiri tegak, tetapi juga berjala
 ## 🛠️ Stack Teknologi & Infrastruktur Utama
 Kami mengoptimalkan ecosystem digital:
 
-![Linux Mint](https://linuxmint.com/donors.php) | ![Cloudflare](https://www.cloudflare.com/) ![GitHub](https://github.com/AkomodaNetwork) | ![HTML5] | etc.
+Linux Mint | Clouflare | GitHub](https://github.com/AkomodaNetwork) | HTML5 | etc.
 
-## 🌐 Navigasi Ekosistem Koto Batuah
-Jelajahi jaringan portal dan layanan utama kami:
-- 🔗 **Main Hub:** [akomodanetwork.com](https://akomodanetwork.com)
+## 🌐 Jelajahi Ekosistem [Koto Batuah](https://koto.biz.i) 
+  OPEN YOUR MIND & FEEL FREE TO GETS VALUABLE INFO.
+
+- 🔗 **Main Hub:** [akomodanetwork.com](https://github.com/AkomodaNetwork)
 - 📰 **Portal Regional:** [portaltangerangraya.com](https://portaltangerangraya.com)
 - 💼 **Digital Identity & Legacy:** [jimtok.pi](https://minepi.com/jimtok)
 
