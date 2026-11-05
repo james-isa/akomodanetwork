@@ -15,7 +15,7 @@ Kami mengoptimalkan ecosystem digital:
 
 Linux Mint | Clouflare | GitHub](https://github.com/AkomodaNetwork) | HTML5 | etc.
 
-## 🌐 Jelajahi Ekosistem [Koto Batuah](https://koto.biz.i) 
+## 🌐 Jelajahi Ekosistem [Koto Batuah](https://kotobatuah.com) 
   OPEN YOUR MIND & FEEL FREE TO GETS VALUABLE INFO.
 
 - 🔗 **Main Hub:** [akomodanetwork.com](https://github.com/AkomodaNetwork)
